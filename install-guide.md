@@ -20,6 +20,6 @@ This chassis has slots for these modules:
 
 | Callout |   LED   |
 
-| 1       | QSFP port (1–6) LEDs The card cage embeds the QSFP LEDs. The triangles appearing upwards and downwards indicate the status and position of the corresponding QSFP. |
-| 2       | Trunk port (0 and 7) LEDs |                                                                                                                                        
-| 3       | ACT LED |                                                                                                                                                 
+| 1   | QSFP port (1–6) LEDs The card cage embeds the QSFP LEDs. The triangles appearing upwards and downwards indicate the status and position of the corresponding QSFP. |
+| 2   | Trunk port (0 and 7) LEDs |                                                                                                                                        
+| 3   | ACT LED |                                                                                                                                                 
